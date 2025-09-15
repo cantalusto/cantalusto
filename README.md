@@ -71,7 +71,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cantalusto&theme=radical&date_format=j%20M%5B%20Y%5D)
 
-![Snake animation](https://github.com/cantalusto/cantalusto/blob/output/snake.svg)
 
 ---
 
