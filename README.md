@@ -76,7 +76,7 @@
 
 
 
-![Snake animation](https://github.com/cantalusto/cantalusto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](./assets/snake.svg)
 
 
 </div>
