@@ -21,8 +21,6 @@
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![php](https://skillicons.dev/icons?i=php)
 ![c](https://skillicons.dev/icons?i=c)
-
-#### 🎨 Front-end
 ![react](https://skillicons.dev/icons?i=react)
 ![nextjs](https://skillicons.dev/icons?i=nextjs)
 ![angular](https://skillicons.dev/icons?i=angular)
@@ -30,8 +28,6 @@
 ![bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![html](https://skillicons.dev/icons?i=html)
 ![css](https://skillicons.dev/icons?i=css)
-
-#### ⚙️ Back-end
 ![spring](https://skillicons.dev/icons?i=spring)
 ![laravel](https://skillicons.dev/icons?i=laravel)
 
@@ -44,7 +40,7 @@
 ![cypress](https://skillicons.dev/icons?i=cypress)
 ![selenium](https://skillicons.dev/icons?i=selenium)
 ![postman](https://skillicons.dev/icons?i=postman)
-![swagger](https://skillicons.dev/icons?i=swagger)
+
   
 #### ☁️ Outros
 ![docker](https://skillicons.dev/icons?i=docker)
