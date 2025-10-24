@@ -1,93 +1,94 @@
-<!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:FFB800&height=180&section=header&text=Olá!%20Eu%20sou%20Lucas%20Cantarelli%20👋&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-
-<!-- Sobre mim -->
-### 🚀 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🔎 Focado em **QA (Quality Assurance)** e **Desenvolvimento Web**
-- 🌍 Experiência em projetos com **Porto Digital**, **Pitang**, **Jornal do Commercio** e **uStore**
-- 💬 Inglês avançado (conversação e leitura técnica)
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  
-#### 💻 Linguagens
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![typescript](https://skillicons.dev/icons?i=typescript)
-![javascript](https://skillicons.dev/icons?i=javascript)
-![php](https://skillicons.dev/icons?i=php)
-![c](https://skillicons.dev/icons?i=c)
-![react](https://skillicons.dev/icons?i=react)
-![nextjs](https://skillicons.dev/icons?i=nextjs)
-![angular](https://skillicons.dev/icons?i=angular)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
-![bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![html](https://skillicons.dev/icons?i=html)
-![css](https://skillicons.dev/icons?i=css)
-![spring](https://skillicons.dev/icons?i=spring)
-![laravel](https://skillicons.dev/icons?i=laravel)
-
-#### 🗄️ Banco de Dados
-![postgres](https://skillicons.dev/icons?i=postgres)
-![mysql](https://skillicons.dev/icons?i=mysql)
-![mongodb](https://skillicons.dev/icons?i=mongodb)
-
-#### ✅ Testes & QA
-![cypress](https://skillicons.dev/icons?i=cypress)
-![selenium](https://skillicons.dev/icons?i=selenium)
-![postman](https://skillicons.dev/icons?i=postman)
-
-  
-#### ☁️ Outros
-![docker](https://skillicons.dev/icons?i=docker)
-![aws](https://skillicons.dev/icons?i=aws)
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
+###
 
-### 📊 Estatísticas
+<h1 align="center">Quem programa nao dorme</h1>
 
-<div align="center">
-  
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=cantalusto&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cantalusto&layout=compact&theme=radical)  
-
-</div>
-
----
-
-
-### 🔥 Atividade
+###
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cantalusto&theme=radical&date_format=j%20M%5B%20Y%5D)
-
-![Snake animation](https://github.com/cantalusto/cantalusto/blob/output/snake.svg)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cantalusto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cantalusto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
----
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V0NTZsbmFkYTk4ZXpjYmNoODZtOHd4bXBtOXZpMHBwYzZxYTk0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OuyKYd3ihdnGZAM0A8/giphy.gif"  />
 
-### 🌍 Onde me encontrar
+###
 
-<div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cantarelli-lustosa-aab5492ba/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cantalusto)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://meuportifolio-five-omega.vercel.app/)
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
----
+###
 
-<!-- Rodapé animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:FFB800&height=120&section=footer"/>
+<div align="left">
+  <a href="https://www.instagram.com/cantalucaa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/435475834032357386" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="cantalusto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cantalusto/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://meuportifolio-five-omega.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PORTIFOLIO&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cantalusto/cantalusto/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
