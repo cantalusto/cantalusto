@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">i miss the old kanye</p>
+<p align="left">i like to work</p>
 
 ###
 
