@@ -60,6 +60,7 @@ Fullstack developer who treats the browser as a canvas. I build products end-to-
 | **[Forma Prima](https://formaprima.vercel.app)**             | Website for a custom print shop — laser cutting, UV printing and sublimation | Next.js                   |
 | **[NostalgicPlay](https://nostalgic-play.vercel.app)**       | A love letter to the early internet — from when the web was beautiful | TypeScript · Creative Dev |
 | **[Portfolio](https://github.com/cantalusto/cantalusto-portfolio)** | Interactive awwwards-style portfolio with WebGL particles and smooth scroll | Three.js · GSAP · Lenis   |
+| **[omarchy-monster-theme](https://github.com/cantalusto/omarchy-monster-theme)** | Dark noir Omarchy theme inspired by Monster (Naoki Urasawa)`css` `hyprland`
 
 <div align="center">
 
